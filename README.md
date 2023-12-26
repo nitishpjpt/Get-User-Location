@@ -1,6 +1,6 @@
 # Get-User-Location
 
-Live Preview of Website > https://nitishpjpt.github.io/Weather-App/
+Live Preview of Website > https://nitishpjpt.github.io/Get-User-Location/
 
 
 <h2 align="left">Built With...</h2>
